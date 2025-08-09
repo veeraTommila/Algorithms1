@@ -7,7 +7,7 @@ This work is licensed under the terms of the MIT license. See the [MIT License](
 
 Design an algorithm that checks whether an integer is evenly divisible by another integer without using any division operations.
 
-[Demo1](https://github.com/veeraTommila/Arduino-Nano-IoT-33-and-MetroM4-projects/tree/main/METROM4BOOT/Harjoitukset/Harjoitus3](https://github.com/veeraTommila/Algorithms1/blob/main/EvenlyDivisibleProject/Program.cs))
+[Demo1](https://github.com/veeraTommila/Arduino-Nano-IoT-33-and-MetroM4-projects/tree/main/METROM4BOOT/Harjoitukset/Harjoitus3](https://github.com/veeraTommila/Algorithms1/blob/main/EvenlyDivisibleProject/Program.cs)
 
 This task focuses on interuption routines. The temperature and moisture are measured by pressing a button and the red LED lights up when a distance value is less than 500mm, which is able to acknowledged by pressing the button of the red LED.
 
