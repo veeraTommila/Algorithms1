@@ -11,11 +11,7 @@
 
             Console.WriteLine("What output do you want?");
             int c = Convert.ToInt32(Console.ReadLine()); ;
-            //int quotient = a % b;
-            //while (dividend >= divisor)
-            //{
-            // divisor = divisor - divisor;
-            //}
+            
             if (b * a == c || a * b == c)
                 Console.WriteLine("The numbers " + a + " and " + b + " can be multiplied together to get " + c);
             else
