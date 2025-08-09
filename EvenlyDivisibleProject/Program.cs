@@ -3,23 +3,23 @@
     internal class Program
     {
         static void Main(string[] args)
-        {            
-            Console.WriteLine("Anna luku:");
+        {
+            Console.WriteLine("Enter a number:");
             int a = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Anna luku:");
+            Console.WriteLine("Enter a number:");
             int b = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Minkä tulon haluat?");
+            Console.WriteLine("What output do you want?");
             int c = Convert.ToInt32(Console.ReadLine()); ;
-            //int jakojaannos = a % b;
-            //while (jaettava >= jakaja)
+            //int quotient = a % b;
+            //while (dividend >= divisor)
             //{
-            //    jaettava = jaettava - jakaja;
+            // divisor = divisor - divisor;
             //}
             if (b * a == c || a * b == c)
-                Console.WriteLine("Luvut " + a + " ja " + b + " voidaan kertoa keskenään luvulle " + c);
+                Console.WriteLine("The numbers " + a + " and " + b + " can be multiplied together to get " + c);
             else
-                Console.WriteLine("Lukuja " + a + " ja " + b + " ei voida kertoa keskenään luvulle " + c);
+                Console.WriteLine("The numbers " + a + " and " + b + " cannot be multiplied together to get " + c);
         }
     }
 }
