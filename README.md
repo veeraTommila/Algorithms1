@@ -13,4 +13,4 @@ This task focuses on cheking. First, we have to find out that the given numbers 
 
 [Demo2a](https://github.com/veeraTommila/Algorithms1/tree/main/Find_the_largest_and_smallest_from_the_table_Console_App)
 
-This task is an example of a linear algorithm that solves the problem of finding the maximum and minimum values in an array.
+This task is an example of a linear algorithm that solves the problem of finding the maximum and minimum values in an array. Since each element is checked once, the time complexity of the algorithm is: Best case: O(n) (if all numbers are the same, all are still checked) Worst case: O(n) Average case: O(n)
