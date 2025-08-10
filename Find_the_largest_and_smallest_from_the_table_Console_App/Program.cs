@@ -2,7 +2,7 @@
 {
     /* What does this code do?
      * It creates a table with 10 random integers.
-     * It finds the largest and the smallest number.
+     * It finds the maximumValue and the minimumValue number.
      * It calculates their difference.
      * It prints everything clearly.
      */
@@ -20,20 +20,20 @@
             }
 
             // Let us initialize the maximum and minimum with the first value.
-            int largest = numberTable[0];
-            int smallest = numberTable[0];
+            int maximumValue = numberTable[0];
+            int minimumValue = numberTable[0];
 
-            // Let us find the largest and smallest value.
+            // Let us find the maximum and minimum value.
             for (int i = 1; i < numberTable.Length; i++)
             {
-                if (numberTable[i] > largest)
-                    largest = numberTable[i];
-                if (numberTable[i] < smallest)
-                    smallest = numberTable[i];
+                if (numberTable[i] > maximumValue)
+                    maximumValue = numberTable[i];
+                if (numberTable[i] < minimumValue)
+                    minimumValue = numberTable[i];
             }
 
 
-            int difference = largest - smallest;
+            int difference = maximumValue - minimumValue;
 
             // Let us print the table and the results.
             Console.WriteLine("The numbers of the table: ");
@@ -41,8 +41,8 @@
                 Console.WriteLine(number + " ");            
             }
 
-            Console.WriteLine("\nThe largest: " + largest);
-            Console.WriteLine("The smallest: " + smallest);
+            Console.WriteLine("\nThe maximum value: " + maximumValue);
+            Console.WriteLine("The minimum value: " + minimumValue);
             Console.WriteLine("The differense: " + difference);
         }
     }
