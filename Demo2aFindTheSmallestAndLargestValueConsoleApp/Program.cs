@@ -1,4 +1,4 @@
-﻿namespace Find_the_largest_and_smallest_from_the_table_Console_App
+﻿namespace Demo2aFindTheSmallestAndLargestValueConsoleApp
 {
     /* What does this code do?
      * It creates a table with 10 random integers.
@@ -37,8 +37,9 @@
 
             // Let us print the table and the results.
             Console.WriteLine("The numbers of the table: ");
-            foreach (int number in numberTable) { 
-                Console.WriteLine(number + " ");            
+            foreach (int number in numberTable)
+            {
+                Console.WriteLine(number + " ");
             }
 
             Console.WriteLine("\nThe maximum value: " + maximumValue);
