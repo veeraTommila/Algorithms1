@@ -7,7 +7,7 @@ This work is licensed under the terms of the MIT license. See the [MIT License](
 
 The assignment was to design an algorithm that checks whether an integer is evenly divisible by another integer without using any division operations.
 
-[Demo1a](https://github.com/veeraTommila/Algorithms1/blob/main/EvenlyDivisibleProject/Program.cs)
+[Demo1a](https://github.com/veeraTommila/Algorithms1/blob/main/Demo1aEvenlyDivisibleConsoleApp/Program.cs)
 
 In this assignment one must find out that the given numbers a, b, and c are integers. There are no commas or periods in integers. One has to multiply the integers b and c together so that the result is a. It can be done like this by comparing the products b * c and c * b with each other. Everything is fine if the products are the same for both.
 
