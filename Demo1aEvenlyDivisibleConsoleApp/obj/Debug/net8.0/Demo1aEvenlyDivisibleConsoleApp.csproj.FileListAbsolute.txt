@@ -1,0 +1,15 @@
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\bin\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.exe
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\bin\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.deps.json
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\bin\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.runtimeconfig.json
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\bin\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.dll
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\bin\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.pdb
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.AssemblyInfoInputs.cache
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.AssemblyInfo.cs
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.csproj.CoreCompileInputs.cache
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.sourcelink.json
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.dll
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\refint\Demo1aEvenlyDivisibleConsoleApp.dll
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.pdb
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\Demo1aEvenlyDivisibleConsoleApp.genruntimeconfig.cache
+D:\Tiedostot\Ohmelmointia\Algorithms1\Demo1aEvenlyDivisibleConsoleApp\obj\Debug\net8.0\ref\Demo1aEvenlyDivisibleConsoleApp.dll
