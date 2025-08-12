@@ -15,7 +15,7 @@ In this assignment one must find out that the given numbers a, b, and c are inte
 
 In the first task, a table contains numbers in random order. One needs to design an algorithm that calculates the difference between the largest and smallest numbers in the table. Then one needs to evaluate how the execution time depends on the size of the table.
 
-[Demo2a](https://github.com/veeraTommila/Algorithms1/blob/main/Find_the_largest_and_smallest_from_the_table_Console_App/Program.cs)
+[Demo2a](https://github.com/veeraTommila/Algorithms1/blob/main/Demo2aFindTheSmallestAndLargestValueConsoleApp/Program.cs)
 
 This task is an example of a linear algorithm that solves the problem of finding the maximum and minimum values in an array. Since each element is checked once, the time complexity of the algorithm is: Best case: O(n) (if all numbers are the same, all are still checked) Worst case: O(n) Average case: O(n).
 
